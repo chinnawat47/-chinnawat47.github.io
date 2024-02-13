@@ -1,7 +1,10 @@
-![banner].(https://multiresolutions.com/wp-content/uploads/2022/11/3d-space-scene.jpg).
+![banner](https://multiresolutions.com/wp-content/uploads/2022/11/3d-space-scene.jpg)
 
 # สมุดบันทึก
 
-สำหรับวิชา OOP 
+สำหรับวิชา [OOP](https://github.com/chinnawat47/-chinnawat47.github.io).
+
+![download banner](https://d1hjkbq40fs2x4.cloudfront.net/2016-08-03/files/Introduction_to_astro_1.jpg)
 
 ชินวัฒน์ เงาะเศษ
+
