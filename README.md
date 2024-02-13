@@ -1,4 +1,4 @@
-#My Lecture Note
+My Lecture Note
 
 สำหรับวิชา OOP 
 
