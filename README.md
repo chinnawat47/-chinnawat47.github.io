@@ -8,3 +8,8 @@
 
 ชินวัฒน์ เงาะเศษ
 
+#เรียกใช้งาน
+#venv/scripts/activate
+#Run website
+#streamlit run streamlit/streamlit01.py
+
